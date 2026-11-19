@@ -68,9 +68,11 @@ I work at the intersection of **automotive cybersecurity** and **security operat
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 **Automotive:** CAN / CAN FD · SocketCAN · SecOC concepts · UN R156 · ISO/SAE 21434 (TARA) · AUTOSAR-style SWCs · Simulink MIL/SIL
+
 **SOC:** Wazuh · ELK · n8n (SOAR) · DFIR-IRIS · VirusTotal / AbuseIPDB / OTX enrichment · MITRE ATT&CK · detection engineering · Isolation Forest
 
 **Supply chain:** CycloneDX SBOM · Grype · GPG signing · anti-rollback
+
 **DevSecOps:** Terraform · Ansible · Checkov · OPA · strongSwan · GitHub Actions
 
 ---
